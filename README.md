@@ -1,7 +1,10 @@
 # Hugo López
 ### Estudiante de ingeniería en Tecnologías Computacionales
-Apasionado por la tecnología, me especializo en el desarrollo de software. Durante mi carrera como estudiante de ingenieria,
+Apasionado por la tecnología, me especializo en el desarrollo de software.
+
+Durante mi carrera como estudiante de ingenieria,
 he observado el gran impacto positivo que las soluciones tecnológicas pueden tener en diversos entornos, tanto sociales como productivos.
+
 Mi principal enfoque como desarrollador de software es crear soluciones innovadoras para resolver problemas de manera efectiva.
 
 ## Habilidades Técnicas
