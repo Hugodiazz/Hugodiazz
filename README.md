@@ -18,15 +18,6 @@ Mi principal enfoque como desarrollador de software es crear soluciones innovado
   <img src="https://img.shields.io/badge/-Python-000?&logo=Python" height="40"/>
 </Div>
 
-## Proyectos Destacados
-
-### Convertidor de unidades 💱
-Convertidor de unidades es una aplicación especializada en conversiones de unidades como área, longitud,
-temperatura, que proporciona una manera rápida de realizar la conversión entre distintos sistemas de medición.
-- [Enlace al proyecto](https://play.google.com/store/apps/details?id=com.hdevs.conversordeunidades)
-- Tecnologías utilizadas: Kotlin, Jetpack Compose
-
-
 ## Enlaces de Interés
 
 - [Mi canal de Youtube](https://www.youtube.com/channel/UCwT5h1XjPW4yHo15swU74fw) 🎥
