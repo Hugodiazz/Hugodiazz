@@ -20,7 +20,6 @@ Mi principal enfoque como desarrollador de software es crear soluciones innovado
 
 ## Enlaces de Interés
 
-- [Mi canal de Youtube](https://www.youtube.com/channel/UCwT5h1XjPW4yHo15swU74fw) 🎥
 - [LinkedIn](https://www.linkedin.com/in/hugo-lopez-diaz/) 🧑‍💻
 - [X](https://x.com/HugoLopezDev) 🙍‍♂️
 <!--
