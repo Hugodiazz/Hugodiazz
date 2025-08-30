@@ -1,5 +1,5 @@
 # Hugo López
-### Estudiante de ingeniería en Tecnologías Computacionales
+### Ingeniero en Tecnologías Computacionales - Egresado de la Universidad Veracruzana
 Apasionado por la tecnología, me especializo en el desarrollo de software.
 
 Durante mi carrera como estudiante de ingenieria,
